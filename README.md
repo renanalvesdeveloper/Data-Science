@@ -5,7 +5,8 @@
 </p>
 
 # Renan Alves
-<sub>*Aqui você encontra os notebooks dos meus projetos na área de Data Science, Machine Learning e Deep Learning.</sub>
+
+Aqui você encontra os notebooks dos meus projetos na área de Data Science, Machine Learning e Deep Learning.
 
 **Links:**
 * [Blog](http://sigmoidal.ai)
