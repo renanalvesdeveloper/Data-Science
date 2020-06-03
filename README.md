@@ -15,18 +15,22 @@ Aqui você encontra os notebooks dos meus projetos na área de Data Science, Mac
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+Lista de projetos em Jupyter Notebook:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
-* **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
-* **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
-* **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
-* **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
-* **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
-* **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
+* **Detecção de Fraudes em Cartões de Crédito:** https://bit.ly/2Qr7Nai
+* **Machine Learning para a Detecção de Câncer de Mama:** https://bit.ly/2JEU9xY
+* **Analisando os Dados do Suicídio no Brasil (Setembro Amarelo):** https://bit.ly/2mvuTSd
+* **Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
+* **Análise dos Dados do Airbnb para o Rio de Janeiro:** https://bit.ly/2oBxmeK
+* **Avaliação de Risco de Crédito - Nubank:** https://bit.ly/2MTFIH3
 
 ---
 
+### Sobre mim:
 
+Sou Analista de Sistemas em uma empresa que presta serviços para o Banco do Nordeste, atuo com desenvolvimento e sustentação de softwares.
+
+* Graduação em Análise e Desenvolvimento de Sistemas.
+* MBA em Ciência de Dados.
 
 
