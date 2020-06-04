@@ -31,6 +31,6 @@ Lista de projetos em Jupyter Notebook:
 Sou Analista de Sistemas em uma empresa que presta serviços para o Banco do Nordeste, atuo com desenvolvimento e sustentação de softwares.
 
 * Graduação em Análise e Desenvolvimento de Sistemas.
-* MBA em Ciência de Dados.
+* Pós-Graduação em Ciência de Dados.
 
 
