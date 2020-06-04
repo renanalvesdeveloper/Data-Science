@@ -9,9 +9,9 @@
 Aqui você encontra os notebooks dos meus projetos na área de Data Science, Machine Learning e Deep Learning.
 
 **Links:**
-* [Blog](http://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
-* [Medium](https://www.medium.com)
+* [Insragram](https://www.instagram.com/renanalvesdeveloper/)
+* [LinkedIn](https://www.linkedin.com/in/renan-alves-9b1b71b7/)
+* [Medium](https://medium.com/@renanalvesdeveloper)
 
 
 ## Projetos:
