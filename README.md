@@ -16,7 +16,7 @@ Aqui você encontra os notebooks dos meus projetos na área de Data Science, Mac
 Lista de projetos em Jupyter Notebook:
 
 * **Análise dos Dados do Airbnb para a cidade de Santiago :** https://bit.ly/3f3CkG7
-* **Análise da Violência no Rio de Janeiro :**https://bit.ly/2AHxHTg
+* **Análise da Violência no Rio de Janeiro :** https://bit.ly/2AHxHTg
 
 ---
 
