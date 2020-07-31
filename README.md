@@ -18,6 +18,7 @@ Lista de projetos em Jupyter Notebook:
 * **Análise dos Dados do Airbnb para a cidade de Santiago :** https://bit.ly/3f3CkG7
 * **Análise da Violência no Rio de Janeiro :** https://bit.ly/2AHxHTg
 * **Panorama da COVID-19 no Brasil :** https://bit.ly/3fYGgsn
+* **Análise e construção de um modelo Machine Learning para determinar a qualidade de um Vinho :** https://bit.ly/3hY5wzo
 
 ---
 
